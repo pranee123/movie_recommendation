@@ -16,7 +16,7 @@ user_input = st.text_input("Enter the Movie Title,Genere, songs or Keyword👇")
 demo_template = '''
 Based on your interest in "{user_input}", here are some personalized movie recommendations for you:
 
-1. We have categorized the recommendations based on:
+1. We have categorized the 5 recommendations based on:
    - Genre: The movies are sorted first by genre to help you explore your preferred type of films.
    - Songs: Along with each movie, you'll also get recommendations on notable songs featured in these films.
 
