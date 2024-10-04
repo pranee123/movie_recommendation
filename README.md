@@ -1,4 +1,6 @@
 # movie_recommendation
+![Screenshot 2024-10-04 123720](https://github.com/user-attachments/assets/d7675bed-00a4-49cd-beae-501d1422b6de)
+
 
 ### Created Virtual Environment
 * Used '''python -m venv .venv''' to create the Virtual environment
