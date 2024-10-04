@@ -11,7 +11,7 @@ load_dotenv() # Activate the Local Environment
 genai.configure(api_key=os.getenv("Google-Api-Key"))
 
 # Designing the Webpage...
-st.title("👀🎬Movie Recommender Systems👀")
+st.title("🎬🎬Movie Recommender Systems")
 user_input = st.text_input("Enter the Movie Title,Genre, songs or Keyword👇")
 demo_template = '''Based on your interest in "{user_input}", here are some personalized \
 movie recommendations for you:\
