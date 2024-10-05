@@ -1,5 +1,5 @@
 # movie_recommendation
-![Screenshot 2024-10-04 202524](https://github.com/user-attachments/assets/0a4322d4-9c0d-479a-8470-c78b44091687)
+![Screenshot 2024-10-04 123720](https://github.com/user-attachments/assets/d7675bed-00a4-49cd-beae-501d1422b6de)
 
 
 ### Created Virtual Environment
@@ -20,7 +20,7 @@ Google Generative AI
 Langchain
 Langchain Google Generative AI
 dotenv (for environment variable management)
-**Installation**
+Installation
 Create a virtual environment:
 Bash
 python -m venv venv
